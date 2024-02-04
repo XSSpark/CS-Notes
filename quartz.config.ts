@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     baseUrl: "notes.yxy.ninja",
     ignorePatterns: ["private", "Templates", ".obsidian", "Personal", "Archive", "Omnivore", "**/*.excalidraw.md"],
     defaultDateType: "modified",
-    locale: "en-US",
+    locale: "fr-FR",
     theme: {
       typography: {
         header: "Geist",
